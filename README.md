@@ -29,27 +29,40 @@ The goal is to provide decision-makers with a clear, data-driven view of operati
 # 🖼️ Dashboard Preview
 
 ## 📌 Overview Page
-![Overview Dashboard](screenshots/overview_page.png)
+![Overview Dashboard](reports/overview_page.png)
 
 ## 📌 Customer Report Page
-![Customer Report](screenshots/customer_report.png)
+![Customer Report](reports/customer_report.png)
 
 ---
 
 # 📂 Repository Structure
 insurance-claims-analytics/
+
 │
+
 ├── data/
+
 │ └── insurance_data.csv
+
 │
-├── screenshots/
+
+├── reports/
+
 │ ├── overview_page.png
+
 │ └── customer_report.png
+
 | └── insurance_dashboard.pdf
+
 │
+
 ├── dashboard/
+
 │ └── insurance_dashboard.pbix
+
 │
+
 └── README.md
 
 
