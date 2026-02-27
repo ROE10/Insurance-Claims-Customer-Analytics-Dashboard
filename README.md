@@ -110,7 +110,7 @@ Interactive Drill-Down Reports
 
 ----
 
-📌 Business Insights
+# 📌 Business Insights
 
 Travel policies generate the highest premium revenue.
 
@@ -120,7 +120,7 @@ Adult customers account for the largest share of claim amounts.
 
 Customer feedback highlights delays in claims processing as an improvement area.
 
-📌 Strategic Recommendations
+# 📌 Strategic Recommendations
 
 Review underwriting and claims validation process to reduce rejection rates.
 
