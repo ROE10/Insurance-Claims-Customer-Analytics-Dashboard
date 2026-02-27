@@ -108,7 +108,8 @@ Sentiment-based Customer Insights
 
 Interactive Drill-Down Reports
 
-```
+----
+
 📌 Business Insights
 
 Travel policies generate the highest premium revenue.
